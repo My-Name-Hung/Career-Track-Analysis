@@ -1,6 +1,4 @@
 # Career-Track-Analysis
-<<<<<<< HEAD
-=======
 
 Use PostgreSQL and Tableau processing normal data Career Track Analysis
 - [x] Career_Track_Analysis_CREATE.sql Have code SQL create table and insert value
@@ -10,4 +8,4 @@ Use PostgreSQL and Tableau processing normal data Career Track Analysis
 
 # Result show in dashboard use PostgreSQL and Tableau
 ![image](https://github.com/My-Name-Hung/Career-Track-Analysis/assets/111122752/7814658d-e2ad-4303-bf54-8dcd5d3913b3)
->>>>>>> ed40f2292ea23f58cbd85ce464021ee2faed96f3
+
